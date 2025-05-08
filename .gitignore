@@ -1,0 +1,42 @@
+# Unreal Engine folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+.idea/
+
+# Ignore build output
+Build/
+
+# Ignore compiled source files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+*.app
+*.dSYM
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.lnk
+
+# macOS and Linux
+.DS_Store
+*.swp
+*.swn
+
+# Logs
+*.log
+
+# Crash reports
+*.dmp
+
+# Unreal Plugin build files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
