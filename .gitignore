@@ -40,3 +40,6 @@ Build/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 Plugins/*/Saved/
+
+Content/Scene_QuarrySlate
+Content/StarterContent
